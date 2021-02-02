@@ -44,6 +44,27 @@ header{
   animation: fadein 4s;
 }
 
+
+.row1{
+  display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: center;
+	align-items: stretch;
+	align-content: stretch;
+
+}
+
+.row2{
+  display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: center;
+	align-items: stretch;
+	align-content: stretch;
+
+}
+
 .logo{
   margin: 0 auto;
   width: 512px;
