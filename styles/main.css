@@ -251,9 +251,11 @@ display: none;
 
 @media (max-width: 1024px) {
   .logo{
-    margin: 0 auto;
-    width: 256px;
+  margin: 0 auto;
+  width: 256px;
   }
+  
+
 
   .row{
     flex-direction: column;
